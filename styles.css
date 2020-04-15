@@ -1,0 +1,28 @@
+.forma{
+  padding: 50px;
+  text-align: center;
+  font-family: monospace;
+  font-size: 20px;
+  position: fixed; top: 50%; left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  border: 40px white;
+}
+
+.table2{
+  
+  width: 500px;
+
+  
+  font-family: monospace;
+  font-size: 20px;
+  
+  
+}
+
+.text{
+	font-family: monospace;
+  font-size: 20px;
+}
+
